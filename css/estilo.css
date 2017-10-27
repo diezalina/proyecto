@@ -1,0 +1,71 @@
+/** parte individual de la pagina**/
+body{
+    font-family: sans-serif;
+    background-image:linear-gradient();
+}
+
+.texto{
+    color:dodgerblue;
+    font-family: sans-serif;
+}
+
+.info{
+    margin-left: 67%;
+}
+
+.menutext{
+    color: dodgerblue;
+    text-align:right;
+}
+
+#contenido{
+    display: inline-grid;
+}
+
+/** menu **/
+.navegacion {
+  background-color:deepskyblue;
+    z-index:99999;
+}
+nav {
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+nav ul {
+  list-style:none;
+}
+nav > ul > li {
+  float: left;
+}
+nav ul::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+nav ul li a {
+  display: inline-block;
+  width: 200px;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+  padding: 20px;
+    background-color: deepskyblue;
+}
+nav ul li a:hover {
+  background-color:dodgerblue;
+}
+/** Segundo Nivel **/
+nav ul ul {
+  position: absolute;
+  top:100%;
+  background-color: deepskyblue;
+  display: none;
+    z-index: 99999;
+}
+nav ul li:hover > ul {
+  display: block;
+}
+nav ul li:hover  {
+  background-color: dodgerblue;
+}
