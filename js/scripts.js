@@ -5,7 +5,7 @@ $(document).ready(function(){ //esto siempre al principio
        captions: true,
        auto:true,
        autoControls: false,
-       stopAutoOnClick: true,
-       infiniteLoop: true
+       infiniteLoop: true,
+       responsive: true
    });
 });

@@ -1,0 +1,7 @@
+
+/**Info que el doc quiere ver en la página**/
+medicina de rehabilitacion
+electrodiagnostico
+consulta de valoracion por medicos especialistas
+
+-Imagenes que muestren los horarios de apertura
