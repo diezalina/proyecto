@@ -1,0 +1,27 @@
+Subespecialista en electrodiagnostico<-Esto es para quienes somos para el doctor Pinal Covarrubio
+
+--Esto es para Servicios--
+1)secuelas de evento vascular cerebral (amiparesia y hemiplejia, paralisis de nervio periferico,
+lesiones radiculares, paralisis facial, )
+2)pie plano valgo, pie cavo, genuvalgo, genuvaro, enfermedades degenerativas, coxartrosis,
+gonartrosis, espondiloartrosis, posquirurgicos de protesis de cadera, hombro y rodilla
+3)espondiloartrosis, escoliosis, xifosis, enfermedades reumaticas de columna, post operados de hernia
+y de disco, lumbalgia, ceatalgia, 
+4) invalidez, problemas que generen discapacidad
+-electrodiagnostico:
+electromiografia, potenciales evocados, somatosensoriales
+potenciales auditivos y visuales, velocidad de conduccion nerviosa,
+
+Somos medicos especialistas en la materia(medicina de rehabilitacion)
+--
+
+Equipamento:
+Hidroterapia, termoterapia: compresas quimicas, infrarrojo, diatermia, ultrasonido terapeutico,
+laser terapia, electroterapia, mecanoterapia, hidroterapia, 
+
+Metodos de pago:
+efectivo, tarjeta bancaria, se ven pacientes de aseguradoras(especificar)
+
+--Ajustar google maps Quiere que cambiemos la imagen que sale que da Google maps en linea
+
+--Intro de que es una clinica de rehabilitacion <- para index
