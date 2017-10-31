@@ -1,0 +1,39 @@
+/** De aqui se basa el nuevo menu**/
+
+*{
+    padding:0;
+    margin:0;
+}
+
+header{
+    width: 100%;
+    background: dodgerblue;
+    -webkit-box-shadow: :3px 3px 5px 6px #000;
+    -moz-box-shadow: :3px 3px 5px 6px #000;
+    -o-box-shadow: :3px 3px 5px 6px #000;
+    height:50px;
+    z-index: 9999;
+}
+
+#menu{
+    width: 470px;
+    padding-top: 10px;
+    margin:auto;
+}
+
+#menu ul a{
+    color:white;
+    text-decoration: none;
+    font: bold 16px Verdana;
+    padding: 12px 20px 12px 20px;
+    background: transparent;
+    border-bottom: 9px solid transparent;
+    -webkit-transition: border-bottom .7s;
+    -moz-transition: border-bottom .7s;
+    -o-transition: border-bottom .7s;
+}
+
+#menu ul a:hover{
+    background:deepskyblue;
+    border-bottom: 9px solid white;
+}
