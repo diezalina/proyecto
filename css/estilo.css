@@ -75,6 +75,7 @@ nav ul li a {
     -webkit-transition: border-bottom .7s;
     -moz-transition: border-bottom .7s;
     -o-transition: border-bottom .7s;
+    transition: background-color .7s;
 }
 nav ul li a:hover {
     background-color:dodgerblue;
