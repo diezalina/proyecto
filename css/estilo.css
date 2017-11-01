@@ -22,10 +22,23 @@ header{
     font-family: sans-serif;
     color:blue;
 }
+.terapias{
+    text-align: justify;
+    font-family: sans-serif;
+    color:blue;
+}
 h2{
     text-align: justify;
     font-family: sans-serif;
     color:darkblue;
+}
+.slider2{
+    float:left;
+	margin-left:50%;
+	margin-bottom:10%;
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
 }
 .texto{
     color:dodgerblue;
