@@ -113,17 +113,16 @@ nav ul li:hover > ul {
 nav ul li:hover  {
     background-color: dodgerblue;
 }
-.ache1{
-    text-align: center;
-    text-decoration:underline;
-    text-transform: uppercase;
-}
+
 .informacion{
     position: absolute;
     width: 40%;
     margin-left: 5%;
     margin-top: 15%;
     text-align: center;
+}
+.informacion img :hover {
+    width: 110%;
 }
 .informacion2{
     position: absolute;
@@ -138,21 +137,33 @@ nav ul li:hover  {
     font-size: 12px;
 }
 .imag {
+    margin-top: -20%;
     position: absolute;
     margin-left: 10%;
+}
+.imag a :hover{
+    
+    border-bottom: 9px solid white;
+    width: 110%;
+    
 }
 .somos {
     position: absolute;
     width: 50%;
     text-align: left;
-    margin-left: 35%;
-    margin-top: 5%;
+    margin-left: 37%;
+    margin-top: -18%;
 }
 .mision{
     margin-top: 25%;
     text-align: center;
     text-decoration:underline;
     text-transform: uppercase;
+}
+.mision:hover {
+    background:#01DFD7;
+    border-bottom: 2px solid white;
+    
 }
 .mis_es{
     position: absolute;
