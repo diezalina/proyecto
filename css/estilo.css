@@ -10,7 +10,7 @@
 }
 
 .texto{
-    color:dodgerblue;
+    color:white;
     font-family: sans-serif;
     margin-left: 9%;
 }
@@ -18,7 +18,7 @@
 body{
     font-family: sans-serif;
     color:dodgerblue;
-    background: #ccffff;
+    background-image:url(images/3.jpg)
 }
 
 header{
@@ -27,6 +27,13 @@ header{
     margin-right: -0.3%;
     padding-top: 0;
     margin-top: -1.05%;
+}
+
+footer{
+    background-color: deepskyblue;
+    padding-top: 0;
+    margin-top: 1.05%;
+    width: 100%;
 }
 .serv{
     text-align: justify;
@@ -75,20 +82,20 @@ h2{
     position: relative;
 }
 .texto{
-    color:dodgerblue;
+    color:white;
     font-family: sans-serif;
 }
 
 .info{
     margin-left: 0%;
     margin-right: 18%;
-    color:dodgerblue;
+    color:white;
     text-align: center;
     text-decoration-style: wavy;
 }
 
 .menutext{
-    color: dodgerblue;
+    color: w;
     text-align:right;
 }
 /** banner index **/
@@ -261,4 +268,7 @@ nav ul li:hover  {
     text-align: left;
     margin-left:39%;
     margin-top: 20%;
+}
+.textt{
+    color: white
 }
