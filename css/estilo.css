@@ -17,7 +17,16 @@ header{
     padding-top: 0;
     margin-top: -1.05%;
 }
-
+.serv{
+    text-align: justify;
+    font-family: sans-serif;
+    color:blue;
+}
+h2{
+    text-align: justify;
+    font-family: sans-serif;
+    color:darkblue;
+}
 .texto{
     color:dodgerblue;
     font-family: sans-serif;
