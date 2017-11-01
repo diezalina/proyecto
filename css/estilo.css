@@ -140,10 +140,9 @@ nav ul li:hover  {
     margin-top: -20%;
     position: absolute;
     margin-left: 10%;
+    
 }
 .imag a :hover{
-    
-    border-bottom: 9px solid white;
     width: 110%;
     
 }
@@ -159,6 +158,7 @@ nav ul li:hover  {
     text-align: center;
     text-decoration:underline;
     text-transform: uppercase;
+    transition: background .7s;
 }
 .mision:hover {
     background:#01DFD7;
