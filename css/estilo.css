@@ -3,7 +3,7 @@
     margin-left: 23%;
 }
 .contenido2{
-    margin-left: 50%;
+    margin-left: 25%;
 }
 
 .texto{
@@ -25,7 +25,6 @@ header{
     padding-top: 0;
     margin-top: -1.05%;
 }
-<<<<<<< HEAD
 .serv{
     text-align: justify;
     font-family: sans-serif;
@@ -48,7 +47,7 @@ h2{
     float:left;
 	margin-left:50%;
 	margin-bottom:10%;
-    width: 1200px;
+    width: 1900px;
     margin: 0 auto;
     position: relative;
 }
@@ -57,11 +56,8 @@ h2{
     font-family: sans-serif;
 }
 
-=======
->>>>>>> c13f7ecc5e9a83a329823a37983fb7f830085837
-
 .info{
-    margin-left: 10%;
+    margin-left: 0%;
     margin-right: 18%;
     color:dodgerblue;
     text-align: center;
