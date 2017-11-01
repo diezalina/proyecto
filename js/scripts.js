@@ -15,7 +15,6 @@ $(document).ready(function(){ //esto siempre al principio
        auto:true,
        autoControls: false,
        infiniteLoop: true,
-       responsive: true
-    
+       responsive: true 
    });
 });

@@ -2,6 +2,9 @@
 .contenido{
     margin-left: 23%;
 }
+.contenido2{
+    margin-left: 50%;
+}
 
 body{
     font-family: sans-serif;
@@ -21,16 +24,19 @@ header{
     text-align: justify;
     font-family: sans-serif;
     color:blue;
+    font-size: 18px;
 }
 .terapias{
     text-align: justify;
     font-family: sans-serif;
     color:blue;
+    font-size: 20px;
 }
 h2{
     text-align: justify;
     font-family: sans-serif;
     color:darkblue;
+    font-size: 25px;
 }
 .slider2{
     float:left;
