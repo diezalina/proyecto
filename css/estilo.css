@@ -6,11 +6,16 @@
     margin-left: 50%;
 }
 
+.texto{
+    color:dodgerblue;
+    font-family: sans-serif;
+    margin-left: 9%;
+}
+
 body{
     font-family: sans-serif;
     color:dodgerblue;
     background: #ccffff;
-    
 }
 
 header{
@@ -20,6 +25,7 @@ header{
     padding-top: 0;
     margin-top: -1.05%;
 }
+<<<<<<< HEAD
 .serv{
     text-align: justify;
     font-family: sans-serif;
@@ -51,18 +57,43 @@ h2{
     font-family: sans-serif;
 }
 
+=======
+>>>>>>> c13f7ecc5e9a83a329823a37983fb7f830085837
 
 .info{
-    margin-left: 18%;
+    margin-left: 10%;
     margin-right: 18%;
     color:dodgerblue;
+    text-align: center;
+    text-decoration-style: wavy;
 }
 
 .menutext{
     color: dodgerblue;
     text-align:right;
 }
+/** banner index **/
+.banner{
+    
+}
 
+.imagenIndex{
+    width: 100%;
+    transition: width .7s;
+}
+
+.imgIndex{
+    display:inline-flex;
+    list-style: none;
+    position: relative;
+    width: 1290px;
+    padding-left: 1.5%;
+}
+
+.imagenIndex:hover{
+    width: 105%;
+    position:relative;
+}
 
 /** menu **/
 .navegacion {
@@ -118,4 +149,97 @@ nav ul li:hover > ul {
 }
 nav ul li:hover  {
     background-color: dodgerblue;
+}
+
+.informacion{
+    position: absolute;
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 15%;
+    text-align: center;
+}
+.informacion img :hover {
+    width: 110%;
+}
+.informacion2{
+    position: absolute;
+    width: 40%;
+    width: inherit;
+    margin-left: 55%;
+    margin-top: 15%;
+    text-align: center;
+    
+}
+.cert {
+    font-size: 12px;
+}
+.imag {
+    margin-top: -20%;
+    position: absolute;
+    margin-left: 10%;
+    
+}
+.imag a :hover{
+    width: 110%;
+    
+}
+.somos {
+    position: absolute;
+    width: 50%;
+    text-align: left;
+    margin-left: 37%;
+    margin-top: -18%;
+}
+.mision{
+    margin-top: 25%;
+    text-align: center;
+    text-decoration:underline;
+    text-transform: uppercase;
+    transition: background .7s;
+}
+.mision:hover {
+    background:#01DFD7;
+    border-bottom: 2px solid white;
+    
+}
+.mis_es{
+    position: absolute;
+    width: 60%;
+    margin-left: 20%;
+   
+}
+.contac{
+    text-align: left;
+    text-decoration:underline;
+    text-transform: uppercase;
+    width: 60%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.tel {
+   position: absolute;
+    margin-left: 0%;
+     margin-top:-12%;
+ 
+}
+.numero {
+    position: absolute;
+    width: 50%;
+    text-align: left;
+    margin-left:39%;
+    margin-top: 5%;
+}
+.numero2 {
+    position: absolute;
+    width: 50%;
+    text-align: left;
+    margin-left:39%;
+    margin-top: 15%;
+}
+.direccion {
+    position: absolute;
+    width: 50%;
+    text-align: left;
+    margin-left:39%;
+    margin-top: 20%;
 }
