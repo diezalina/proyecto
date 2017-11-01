@@ -161,3 +161,38 @@ nav ul li:hover  {
     margin-left: 20%;
    
 }
+.contac{
+    text-align: left;
+    text-decoration:underline;
+    text-transform: uppercase;
+    width: 60%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.tel {
+   position: absolute;
+    margin-left: 0%;
+     margin-top:-12%;
+ 
+}
+.numero {
+    position: absolute;
+    width: 50%;
+    text-align: left;
+    margin-left:39%;
+    margin-top: 5%;
+}
+.numero2 {
+    position: absolute;
+    width: 50%;
+    text-align: left;
+    margin-left:39%;
+    margin-top: 15%;
+}
+.direccion {
+    position: absolute;
+    width: 50%;
+    text-align: left;
+    margin-left:39%;
+    margin-top: 20%;
+}
