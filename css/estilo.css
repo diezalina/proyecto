@@ -100,3 +100,45 @@ nav ul li:hover  {
     text-decoration:underline;
     text-transform: uppercase;
 }
+.informacion{
+    position: absolute;
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 15%;
+    text-align: center;
+}
+.informacion2{
+    position: absolute;
+    width: 40%;
+    width: inherit;
+    margin-left: 55%;
+    margin-top: 15%;
+    text-align: center;
+    
+}
+.cert {
+    font-size: 12px;
+}
+.imag {
+    position: absolute;
+    margin-left: 10%;
+}
+.somos {
+    position: absolute;
+    width: 50%;
+    text-align: left;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.mision{
+    margin-top: 25%;
+    text-align: center;
+    text-decoration:underline;
+    text-transform: uppercase;
+}
+.mis_es{
+    position: absolute;
+    width: 60%;
+    margin-left: 20%;
+   
+}
