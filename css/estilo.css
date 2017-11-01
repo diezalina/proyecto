@@ -1,4 +1,8 @@
 /** parte individual de la pagina**/
+.contenido{
+    margin-left: 23%;
+}
+
 body{
     font-family: sans-serif;
     color:dodgerblue;
@@ -19,19 +23,11 @@ header{
     font-family: sans-serif;
 }
 
-.contenido{
-    display: inline;
-    
-}
 
 .info{
     margin-left: 18%;
     margin-right: 18%;
     color:dodgerblue;
-}
-
-.slider{
-    
 }
 
 .menutext{
