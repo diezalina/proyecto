@@ -3,7 +3,10 @@
     margin-left: 23%;
 }
 .contenido2{
-    margin-left: 25%;
+
+    display: inline-block;
+    width: 50%;
+    margin-left: 15%;
 }
 
 .texto{
@@ -28,9 +31,10 @@ header{
 .serv{
     text-align: justify;
     font-family: sans-serif;
-    color:blue;
+    color:dodgerblue;
     font-size: 18px;
-    margin-left: 20%;
+    margin-left: 10%;
+    line-height: 2;
 }
 
 .serv ul li{
@@ -38,11 +42,17 @@ header{
     margin-left: -13%;
 }
 .terapias{
-    text-align: justify;
+
+    text-align: left;
     font-family: sans-serif;
-    color:blue;
+    color:dodgerblue;
     font-size: 20px;
-    margin-left: 30%;
+
+    display: inline-block;
+    vertical-align: top;
+    line-height: 2.2;
+    width: 25%;
+
 }
 
 .terapias ul li{
@@ -54,6 +64,7 @@ h2{
     font-family: sans-serif;
     color:darkblue;
     font-size: 25px;
+    margin-left: 25%;
 }
 .slider2{
     float:left;
