@@ -30,12 +30,24 @@ header{
     font-family: sans-serif;
     color:blue;
     font-size: 18px;
+    margin-left: 20%;
+}
+
+.serv ul li{
+    list-style:disc;
+    margin-left: -13%;
 }
 .terapias{
     text-align: justify;
     font-family: sans-serif;
     color:blue;
     font-size: 20px;
+    margin-left: 30%;
+}
+
+.terapias ul li{
+    list-style: none;
+    margin-left: 15%;
 }
 h2{
     text-align: justify;
