@@ -3,11 +3,16 @@
     margin-left: 23%;
 }
 
+.texto{
+    color:dodgerblue;
+    font-family: sans-serif;
+    margin-left: 9%;
+}
+
 body{
     font-family: sans-serif;
     color:dodgerblue;
     background: #ccffff;
-    
 }
 
 header{
@@ -18,12 +23,6 @@ header{
     margin-top: -1.05%;
 }
 
-.texto{
-    color:dodgerblue;
-    font-family: sans-serif;
-}
-
-
 .info{
     margin-left: 18%;
     margin-right: 18%;
@@ -33,6 +32,10 @@ header{
 .menutext{
     color: dodgerblue;
     text-align:right;
+}
+/** banner index **/
+.banner{
+    display: inline;
 }
 
 
