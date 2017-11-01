@@ -3,11 +3,16 @@
     margin-left: 23%;
 }
 
+.texto{
+    color:dodgerblue;
+    font-family: sans-serif;
+    margin-left: 9%;
+}
+
 body{
     font-family: sans-serif;
     color:dodgerblue;
     background: #ccffff;
-    
 }
 
 header{
@@ -17,12 +22,9 @@ header{
     padding-top: 0;
     margin-top: -1.05%;
 }
-
-.texto{
-    color:dodgerblue;
-    font-family: sans-serif;
+.infotextIndex{
+    margin-left: -4%;
 }
-
 
 .info{
     margin-left: 18%;
@@ -34,7 +36,28 @@ header{
     color: dodgerblue;
     text-align:right;
 }
+/** banner index **/
+.banner{
+    
+}
 
+.imagenIndex{
+    width: 100%;
+    transition: width .7s;
+}
+
+.imgIndex{
+    display:inline-flex;
+    list-style: none;
+    position: relative;
+    width: 1290px;
+    padding-left: 1.5%;
+}
+
+.imagenIndex:hover{
+    width: 105%;
+    position:relative;
+}
 
 /** menu **/
 .navegacion {
