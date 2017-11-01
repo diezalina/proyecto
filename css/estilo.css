@@ -22,14 +22,13 @@ header{
     padding-top: 0;
     margin-top: -1.05%;
 }
-.infotextIndex{
-    margin-left: -4%;
-}
 
 .info{
-    margin-left: 18%;
+    margin-left: 10%;
     margin-right: 18%;
     color:dodgerblue;
+    text-align: center;
+    text-decoration-style: wavy;
 }
 
 .menutext{
