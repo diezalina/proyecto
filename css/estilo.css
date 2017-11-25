@@ -2,6 +2,7 @@
 .contenido{
     margin-left: 23%;
 }
+
 .contenido2{
 
     display: inline-block;
@@ -17,7 +18,7 @@
 
 body{
     font-family: sans-serif;
-    color:dodgerblue;
+    color:white;
     background-image:url(images/3.jpg)
 }
 
@@ -35,44 +36,53 @@ footer{
     margin-top: 1.05%;
     width: 100%;
 }
+
+.x{
+    position: absolute;
+    margin-top: 35%;
+}
+
 .serv{
     text-align: justify;
     font-family: sans-serif;
-    color:dodgerblue;
+    color:white;
     font-size: 18px;
     margin-left: 10%;
     line-height: 2;
 }
-
+    
 .serv ul li{
     list-style:disc;
     margin-left: -13%;
 }
-.terapias{
 
+.terapias{
     text-align: left;
     font-family: sans-serif;
-    color:dodgerblue;
+    color:white;
     font-size: 20px;
-
     display: inline-block;
     vertical-align: top;
     line-height: 2.2;
     width: 25%;
-
 }
 
 .terapias ul li{
     list-style: none;
     margin-left: 15%;
 }
+
 h2{
     text-align: justify;
     font-family: sans-serif;
-    color:darkblue;
+    color:white;
     font-size: 25px;
-    margin-left: 25%;
+    margin-left: 17%;
 }
+.terap{
+    margin-left: 33%;
+}
+
 .slider2{
     float:left;
 	margin-left:50%;
@@ -81,6 +91,7 @@ h2{
     margin: 0 auto;
     position: relative;
 }
+
 .texto{
     color:white;
     font-family: sans-serif;
@@ -95,13 +106,12 @@ h2{
 }
 
 .menutext{
-    color: w;
+    color: dodgerblue;
     text-align:right;
 }
 /** banner index **/
 .banner{
-    
-}
+ }
 
 .imagenIndex{
     width: 100%;
@@ -128,22 +138,27 @@ h2{
     margin-left: -0.5%;
     margin-right: -0.2%;
 }
+
 nav {
     width: 1200px;
     margin: 0 auto;
     position: relative;
 }
+
 nav ul {
     list-style:none;
 }
+
 nav > ul > li {
     float: left;
 }
+
 nav ul::after {
     content: '';
     display: block;
     clear: both;
 }
+
 nav ul li a {
     display: inline-block;
     width: 200px;
@@ -158,6 +173,7 @@ nav ul li a {
     -o-transition: border-bottom .7s;
     transition: background-color .7s;
 }
+
 nav ul li a:hover {
     background-color:dodgerblue;
     border-bottom: 9px solid white;
@@ -170,9 +186,11 @@ nav ul ul {
     display: none;
     z-index: 99999;
 }
+
 nav ul li:hover > ul {
     display: block;
 }
+
 nav ul li:hover  {
     background-color: dodgerblue;
 }
@@ -184,9 +202,11 @@ nav ul li:hover  {
     margin-top: 15%;
     text-align: center;
 }
+
 .informacion img :hover {
     width: 110%;
 }
+
 .informacion2{
     position: absolute;
     width: 40%;
@@ -194,21 +214,23 @@ nav ul li:hover  {
     margin-left: 55%;
     margin-top: 15%;
     text-align: center;
-    
 }
+
 .cert {
     font-size: 12px;
 }
+
 .imag {
     margin-top: -20%;
     position: absolute;
-    margin-left: 10%;
-    
+    margin-left: 10%;   
 }
+
 .imag a :hover{
     width: 110%;
     
 }
+
 .somos {
     position: absolute;
     width: 50%;
@@ -216,6 +238,7 @@ nav ul li:hover  {
     margin-left: 37%;
     margin-top: -18%;
 }
+
 .mision{
     margin-top: 25%;
     text-align: center;
@@ -223,17 +246,18 @@ nav ul li:hover  {
     text-transform: uppercase;
     transition: background .7s;
 }
+
 .mision:hover {
     background:#01DFD7;
-    border-bottom: 2px solid white;
-    
+    border-bottom: 2px solid white;    
 }
+
 .mis_es{
     position: absolute;
     width: 60%;
-    margin-left: 20%;
-   
+    margin-left: 20%;  
 }
+
 .contac{
     text-align: left;
     text-decoration:underline;
@@ -242,32 +266,35 @@ nav ul li:hover  {
     margin-left: 40%;
     margin-top: 10%;
 }
+
 .tel {
-   position: absolute;
+    position: absolute;
     margin-left: 0%;
-     margin-top:-12%;
- 
+    margin-top:-12%; 
 }
+
 .numero {
     position: absolute;
     width: 50%;
     text-align: left;
     margin-left:39%;
-    margin-top: 5%;
+    margin-top: -2%;
 }
+
 .numero2 {
     position: absolute;
     width: 50%;
     text-align: left;
     margin-left:39%;
-    margin-top: 15%;
+    margin-top: 2%;
 }
+
 .direccion {
     position: absolute;
     width: 50%;
     text-align: left;
     margin-left:39%;
-    margin-top: 20%;
+    margin-top: 6%;
 }
 .textt{
     color: white
