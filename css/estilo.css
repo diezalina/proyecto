@@ -19,8 +19,7 @@ body{
     color:dodgerblue;
     background-image:url(images/fondoGris.jpg);
     background-repeat: no-repeat;
-    background-size: 150%;
-    
+    background-size: 150%;   
 }
 
 header{
@@ -59,14 +58,12 @@ footer{
     vertical-align: top;
     line-height: 2.2;
     width: 25%;
-    
 }
 
 .terapias ul li{
     font-family: sans-serif;
     font-size: 25px;
     margin-left: 25%;
-
 }
 h3{
      text-align: justify;
@@ -81,14 +78,14 @@ h2{
     font-size: 25px;
     margin-left: 20%;
 }
+
 .slider2{
     float:left;
 	margin-bottom:10%;
     width: 1900px;
     position: relative;
     display: inline-block;
-    width: 50%;
-   
+    width: 50%;   
 }
 .texto{
     color:white;
@@ -108,24 +105,17 @@ h2{
     text-align:right;
 }
 /** banner index **/
-.banner{
-  
-}
 
 .imagenIndex{
     width: 100%;
     transition: width .7s;
-    
 }
 
 .imgIndex{
-
     display:inline-flex;
     list-style: none;
     position:relative;
     width: 1300px;
-   
-   
 }
 
 .imagenIndex:hover{
@@ -140,22 +130,27 @@ h2{
     margin-left: -0.5%;
     margin-right: -0.2%;
 }
+
 nav {
     width: 1200px;
     margin: 0 auto;
     position: relative;
 }
+
 nav ul {
     list-style:none;
 }
+
 nav > ul > li {
     float: left;
 }
+
 nav ul::after {
     content: '';
     display: block;
     clear: both;
 }
+
 nav ul li a {
     display: inline-block;
     width: 200px;
@@ -170,6 +165,7 @@ nav ul li a {
     -o-transition: border-bottom .7s;
     transition: background-color .7s;
 }
+
 nav ul li a:hover {
     background-color:dodgerblue;
     border-bottom: 9px solid white;
@@ -182,9 +178,11 @@ nav ul ul {
     display: none;
     z-index: 99999;
 }
+
 nav ul li:hover > ul {
     display: block;
 }
+
 nav ul li:hover  {
     background-color: dodgerblue;
 }
@@ -196,31 +194,36 @@ nav ul li:hover  {
     margin-top: 15%;
     text-align: center;
 }
+
 .informacion img :hover {
     width: 110%;
 }
+
 .informacion2{
     position: absolute;
     width: 40%;
     width: inherit;
     margin-left: 55%;
     margin-top: 15%;
-    text-align: center;
-    
+    text-align: center;    
 }
+
 .cert {
     font-size: 12px;
 }
+
 .imag {
     margin-top: -20%;
     position: absolute;
     margin-left: 10%;
     
 }
+
 .imag a :hover{
     width: 110%;
     
 }
+
 .somos {
     position: absolute;
     width: 50%;
@@ -228,6 +231,7 @@ nav ul li:hover  {
     margin-left: 37%;
     margin-top: -18%;
 }
+
 .mision{
     margin-top: 25%;
     text-align: center;
@@ -235,17 +239,20 @@ nav ul li:hover  {
     text-transform: uppercase;
     transition: background .7s;
 }
+
 .mision:hover {
     background:#01DFD7;
     border-bottom: 2px solid white;
     
 }
+
 .mis_es{
     position: absolute;
     width: 60%;
     margin-left: 20%;
    
 }
+
 .contac{
     text-align: left;
     text-decoration:underline;
@@ -254,12 +261,14 @@ nav ul li:hover  {
     margin-left: 40%;
     margin-top: 10%;
 }
+
 .tel {
    position: absolute;
     margin-left: 0%;
      margin-top:-12%;
  
 }
+
 .numero {
     position: absolute;
     width: 50%;
@@ -267,6 +276,7 @@ nav ul li:hover  {
     margin-left:39%;
     margin-top: 5%;
 }
+
 .numero2 {
     position: absolute;
     width: 50%;
@@ -274,6 +284,7 @@ nav ul li:hover  {
     margin-left:39%;
     margin-top: 15%;
 }
+
 .direccion {
     position: absolute;
     width: 50%;
@@ -281,6 +292,7 @@ nav ul li:hover  {
     margin-left:39%;
     margin-top: 20%;
 }
+
 .textt{
     color: white
 }
