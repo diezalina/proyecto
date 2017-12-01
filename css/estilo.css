@@ -23,12 +23,13 @@ body{
 }
 
 header{
-    background: white;
-    margin-left: -0.5%;
-    margin-right: -0.3%;
-    padding-top: 0;
-    margin-top: -0.7%;
+    margin: 20px;
+    background-color: #ffffff;
+    border: 1px;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
     color: dodgerblue;
+    text-align: right;
 }
 
 footer{
@@ -102,8 +103,13 @@ h2{
 }
 
 .menutext{
-    color: dodgerblue;
-    text-align:right;
+    
+    margin: 20px;
+    background-color: #ffffff;
+    border: 1px;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+   
 }
 /** banner index **/
 
@@ -296,4 +302,33 @@ nav ul li:hover  {
 
 .textt{
     color: white
+}
+
+.Encabezado{
+    margin-top: 29%;
+    color: darkblue;
+    text-align: justify;
+    margin-left: 20%;
+}
+.consultas{
+    margin-left: 40%;
+    width : 200px;
+    box-sizing: border-box;
+    text-align-last: justify;
+}
+.inicio4{
+  
+    margin-left: 375px;
+}
+#texto2{
+        
+        margin-left: 275px;
+        color: darkblue;
+        font-size: 45px;
+        
+}
+.form2{
+    margin-top: 15%;
+     margin-left: 40%;
+    font-size: 25px;
 }
